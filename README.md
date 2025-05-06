@@ -12,7 +12,7 @@ FlaskとDockerを使用したシンプルなWebアプリケーションの開発
 ---
 
 ## 📁 ディレクトリ構成
-
+```
 flsak/
 ├── Dockerfile # FlaskアプリのDockerイメージ定義
 ├── docker-compose.yml # コンテナ構成の定義
@@ -20,6 +20,7 @@ flsak/
 ├── .gitignore # Gitで追跡しないファイルの設定
 ├── README.md # このファイル
 └── opt/ # アプリケーションコード格納予定ディレクトリ
+```
 ---
 
 ## ⚙️ セットアップ手順
